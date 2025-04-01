@@ -5,9 +5,13 @@ This machine learning project leverages Python to predict ASD traits based on su
 
 ## Project Overview
 This project classifies ASD using survey responses, including AQ-10 scores, age, and gender, to predict labels (0 for no ASD, 1 for ASD). Multiple models were tested, and Random Forest emerged as the most effective.
+<img width="355" alt="accu" src="https://github.com/user-attachments/assets/80f112c9-b2af-44ef-92d1-aa08cb90897e" />
+<img width="168" alt="data2" src="https://github.com/user-attachments/assets/5e8c18a9-3f74-4495-83ae-0ed99bdf853e" />
+<img width="159" alt="data" src="https://github.com/user-attachments/assets/1a49cff5-13aa-43af-bfc6-59a774a205ff" />
+<img width="323" alt="heat" src="https://github.com/user-attachments/assets/57b83425-fc16-4f0e-8416-e78752c5c59d" />
 
 ## Contents
-- **ASD_Classification.py**: Main Python script with the full implementation.
+- **ASD_Classification.py**: Main Pythonscript with the full implementation.
 - **train.csv**: Dataset containing 800 rows and 22 feature columns along with ASD labels.
 - **best_model.pkl**: Saved Random Forest model for predictions.
 

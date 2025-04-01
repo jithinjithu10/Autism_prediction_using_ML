@@ -58,4 +58,3 @@ python ASD_Classification.py
 This project demonstrates how data science can address real-world challenges, such as early ASD detection, using practical machine learning techniques. By refining these methods, we can enhance diagnostic support and awareness for ASD.
 
 ---
-Developed with ❤️ by [Your Name]
